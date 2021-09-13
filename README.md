@@ -17,6 +17,14 @@ We flatten the output of the convolutional layers to create a single long featur
 
 ![image](https://user-images.githubusercontent.com/59678549/132974212-29c29a0f-6b08-45a4-9abe-dc0a3efac5bb.png)
 
+Challenges faced:
+
+![pose_variations](https://user-images.githubusercontent.com/59678549/133034835-6b2dcf79-4aaf-49ca-b4ca-0d1783d18957.PNG)
+
+![expre](https://user-images.githubusercontent.com/59678549/133034867-95579fe7-29d5-45b9-82eb-015768b44480.PNG)
+
+
+
 
 
 
